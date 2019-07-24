@@ -17,17 +17,15 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - 
+    - Check [`checklist.md`](https://bitbucket.org/imhicihu/github-transfers/src/master/checklist.md)
 * Configuration
-    - 
+    - Both Bitbucket and Github accounts previously created and authenticated by both service providers
 * Dependencies
-    - 
+    - No dependencies declared.
 * Database configuration
-    - 
-* How to run tests
-    - 
+    - There is no database involved
 * Deployment instructions
-    - 
+    - Check [`checklist.md`](https://bitbucket.org/imhicihu/github-transfers/src/master/checklist.md)
 
 ### Source ###
 
@@ -46,7 +44,7 @@
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
 * Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/XXXXXXXXXXXX/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
+    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/github-transfers/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 
 ### Legal ###
