@@ -11,7 +11,9 @@
 
 * Quick summary
     - Bitbucket to Github checklist, _mostly_ for internal use
+    
 	- ![gif_animated.gif](https://i.ibb.co/RQNwd73/ezgif-2-2e162bd769b9.gif)
+    
 * Version 1.01
 
 ### How do I get set up? ###
@@ -31,6 +33,7 @@
 
 * Some repositories linked with this project:
      - [Setting up github under proxy](https://bitbucket.org/imhicihu/setting-up-github-under-proxy/)
+     - [Good practices on repository creation](https://bitbucket.org/imhicihu/good-practices-on-repository-creation/src/)
 
 ### Source ###
 
