@@ -7,6 +7,7 @@
         - 21" Dell monitor
 * Software
      - [Gibu](https://gibu.futureglobe.de/#download): backup tool (up to now, for Microsoft Windows counterpart)
+     ![gibu.gif](https://gibu.futureglobe.de/images/GibuInAction.gif)
      - [Duplicati](https://www.duplicati.com/) (open-source backup software)
 
 * Online tools
