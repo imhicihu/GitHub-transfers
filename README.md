@@ -21,7 +21,7 @@
 * Summary of set up
     - Check [`checklist.md`](https://bitbucket.org/imhicihu/github-transfers/src/master/checklist.md)
 * Configuration
-    - Both Bitbucket and Github accounts previously created and authenticated by both service providers
+    - Needs that both Bitbucket and Github accounts (previously created) and authenticated by both service providers. Check our [previous checklist](https://bitbucket.org/imhicihu/setting-up-github-under-proxy/src/8c4fd4610fe0489b1fb642561a0e8e8ffb9ff863/Github_desktop_app_installation.md) to install Github app under a proxy-umbrella
 * Dependencies
     - No dependencies declared
 * Database configuration
