@@ -1,0 +1,1 @@
+* https://help.github.com/en/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository
