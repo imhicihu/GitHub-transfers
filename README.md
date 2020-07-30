@@ -27,7 +27,9 @@
 * Database configuration
     - There is no database involved
 * Deployment instructions
-    - Check [`checklist.md`](https://bitbucket.org/imhicihu/github-transfers/src/master/checklist.md)
+    - Verify the steps to be done from our [`checklist.md`](https://bitbucket.org/imhicihu/github-transfers/src/master/checklist.md)
+    - Install the [native app](https://desktop.github.com/) (according your operating system)
+    - Once installed, follow this [guidelines](https://bitbucket.org/imhicihu/setting-up-github-under-proxy/src/master/Github_desktop_app_installation.md) to be proefficient inside our working environment, _aka_ under our proxy server
 
 ### Related repositories ###
 
