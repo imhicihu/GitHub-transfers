@@ -12,7 +12,7 @@
 * Quick summary
     - Bitbucket to Github checklist, _mostly_ for internal use
     
-	- ![gif_animated.gif](https://i.ibb.co/RQNwd73/ezgif-2-2e162bd769b9.gif)
+	  ![gif_animated.gif](https://i.ibb.co/RQNwd73/ezgif-2-2e162bd769b9.gif)
     
 * Version 1.01
 
