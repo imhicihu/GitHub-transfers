@@ -11,10 +11,9 @@
 
 * Quick summary
     - Bitbucket to Github checklist, _mostly_ for internal use
-    
+    <BR></BR>
 	  ![gif_animated.gif](https://i.ibb.co/RQNwd73/ezgif-2-2e162bd769b9.gif)
     
-* Version 1.01
 
 ### How do I get set up? ###
 
@@ -27,7 +26,7 @@
 * Database configuration
     - There is no database involved
 * Deployment instructions
-    - Verify the steps to be done from our [`checklist.md`](https://bitbucket.org/imhicihu/github-transfers/src/master/checklist.md)
+    - Verify the steps to be done from our [`checklist.md`](checklist.md)
     - Install the [native app](https://desktop.github.com/) (according your operating system)
     - Once installed, follow this [guidelines](https://bitbucket.org/imhicihu/setting-up-github-under-proxy/src/master/Github_desktop_app_installation.md) to be proefficient inside our working environment, _aka_ under our proxy server
 
@@ -48,13 +47,6 @@
 ### Changelog ###
 
 * Please check the [Commits](https://bitbucket.org/imhicihu/github-transfers/commits/) section for the current status
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-    - Contact `imhicihu` at `gmail` dot `com`
-* Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/github-transfers/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 ### Code of Conduct
 
