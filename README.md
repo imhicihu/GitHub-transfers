@@ -1,6 +1,6 @@
-![stability-work_in_progress](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
-![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
-![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
+![stability-work_in_progress](images/477405737-stability_work_in_progress.png)
+![internaluse-green](images/3847436881-internal_use_stable.png)
+![issues-open](images/2944199103-issues_open.png)
 
 # RATIONALE #
 
@@ -12,13 +12,13 @@
 * Quick summary
     - Bitbucket to Github checklist, _mostly_ for internal use
     <BR></BR>
-	  ![gif_animated.gif](https://i.ibb.co/RQNwd73/ezgif-2-2e162bd769b9.gif)
+	  ![gif_animated.gif](images/ezgif-2-2e162bd769b9.gif)
     
 
 ### How do I get set up? ###
 
 * Summary of set up
-    - Check [`checklist.md`](https://bitbucket.org/imhicihu/github-transfers/src/master/checklist.md)
+    - Check [`checklist.md`](checklist.md)
 * Configuration
     - Needs that both Bitbucket and Github accounts (previously created) and authenticated by both service providers. Check our [previous checklist](https://bitbucket.org/imhicihu/setting-up-github-under-proxy/src/8c4fd4610fe0489b1fb642561a0e8e8ffb9ff863/Github_desktop_app_installation.md) to install Github app under a proxy-umbrella
 * Dependencies
@@ -50,7 +50,7 @@
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/github-transfers/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
 
@@ -58,4 +58,4 @@
 
 ### License ###
 
-* The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png) 
+* The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png) 
