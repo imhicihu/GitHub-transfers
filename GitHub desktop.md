@@ -1,5 +1,5 @@
 ### GitHub desktop
-![ezgif-2-2e162bd769b9](images/ezgif-2-2e162bd769b9.gif)
+![2951408339-github](images/2951408339-github.png)
 * download the desktop client from [Github](https://desktop.github.com/)
 	- on [Mac](https://desktop.github.com/)
 	- on [Windows](https://desktop.github.com/)
