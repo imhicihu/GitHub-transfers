@@ -4,13 +4,13 @@
 
 # RATIONALE #
 
-* A kind of safeguard, lighthouse in the sea of bits of procedures and good practices to elicit our Bitbucket and Github's repositories. This is a vice-versa road where there is no left and rights, but there is ~~no~~ synergy between both
+* A kind of safeguard, lighthouse in the sea of bits of procedures and good practices to elicit our Bitbucket and GitHub's repositories. This is a vice-versa road where there is no left and rights, but there is ~~no~~ synergy between both
 * This repo is a living document that will grow and adapt over time
 
 ### What is this repository for? ###
 
 * Quick summary
-    - Bitbucket to Github checklist, _mostly_ for internal use
+    - Bitbucket to GiHhub checklist, _mostly_ for internal use
     <BR></BR>
 	  ![gif_animated.gif](images/ezgif-2-2e162bd769b9.gif)
     
