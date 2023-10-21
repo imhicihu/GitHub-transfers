@@ -1,6 +1,6 @@
 ### GitHub desktop
 ![2951408339-github](images/2951408339-github.png)
-* download the desktop client from [Github](https://desktop.github.com/)
+* download the desktop client from [GitHub](https://desktop.github.com/)
 	- on [Mac](https://desktop.github.com/)
 	- on [Windows](https://desktop.github.com/)
 	- on [Linux](https://aur.archlinux.org/packages/github-desktop/)
