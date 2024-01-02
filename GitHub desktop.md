@@ -16,5 +16,8 @@
 		- click the `Start` button and type `cmd`
 		- In some cases, you must choose `Run as Administrator` and click `Yes` to open command prompt session with elevated privileges
 	- on Linux: open Terminal
-* Type: `git config --global http.proxy http://proxyuser:proxypwd@proxy.server.com:8080`
-* change parameters accordingly to the "real thing"
+* If you are behind a proxy, on your terminal:
+```
+git config --global http.proxy http://proxyuser:proxypwd@proxy.server.com:8080
+```
+* change your proxy's parameters accordingly to your "environment"
