@@ -1,6 +1,6 @@
 ### GitHub desktop
 ![2951408339-github](images/2951408339-github.png)
-* download the desktop client from [GitHub](https://desktop.github.com/)
+* download the desktop client from [GitHub](https://github.com/apps/desktop)
 	- on [Mac](https://desktop.github.com/)
 	- on [Windows](https://desktop.github.com/)
 	- on [Linux](https://aur.archlinux.org/packages/github-desktop/)
@@ -9,7 +9,7 @@
 * before initial run
 	- on Mac: 
 		- open Terminal
-		- in some cases, prompts to install [Xcode command line developer tools](https://developer.apple.com/download/more/): install it
+		- in some cases, prompts to install [Xcode command line developer tools](https://developer.apple.com/download/): install it
 	- on Windows: 
 		- press `Win-R`, type `cmd` and press `Enter` to open a command prompt session
 		- click `Start`-> `Program Files` -> `Accessories` -> `Command Prompt`
@@ -20,4 +20,4 @@
 ```
 git config --global http.proxy http://proxyuser:proxypwd@proxy.server.com:8080
 ```
-* change your proxy's parameters accordingly to your "environment"
+* change your proxy's parameters accordingly to your 'environment'
