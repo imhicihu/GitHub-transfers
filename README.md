@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/sW4IQ1OwSeWrHz95ZzAdIg%202.webp?raw=true" alt="Logotipo de Biblio-searcher"/>
+</p>
+
+---
+
 ![status_archived](images/3278295154-status_archived.png)
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 ![issues-open](images/2944199103-issues_open.png)
